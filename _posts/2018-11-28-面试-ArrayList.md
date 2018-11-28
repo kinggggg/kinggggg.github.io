@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      面试：ArrayList基础
+title:      面试-ArrayList基础
 subtitle:   ArrayList源码窥探
 date:       2018-11-28
 author:     李伟博
