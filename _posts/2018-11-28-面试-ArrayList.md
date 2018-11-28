@@ -10,7 +10,8 @@ tags:
     - Java 面试 容器 ArrayList
 ---
 
-> 在通常的情况下，如果你去面试一个Java工程师的话，ArrayList是肯定会问到的问题。下面就从一些很基础的方面来仔细研究下ArrayList相关的问题
+#### 目的
+在通常的情况下，如果你去面试一个Java工程师的话，ArrayList是肯定会问到的问题。下面就从一些很基础的方面来仔细研究下ArrayList相关的问题
 
 #### ArrayList的底层实现是通过数组的方式
 
