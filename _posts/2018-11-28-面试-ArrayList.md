@@ -4,7 +4,7 @@ title:      面试-ArrayList基础
 subtitle:   ArrayList源码窥探
 date:       2018-11-28
 author:     李伟博
-header-img: img/post-bg-cook.jpg
+header-img: img/post-bg-coffee
 catalog: true
 tags:
     - Java 面试 容器 ArrayList
