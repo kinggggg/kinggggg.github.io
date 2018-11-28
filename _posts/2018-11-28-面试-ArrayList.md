@@ -4,14 +4,13 @@ title:      面试-ArrayList基础
 subtitle:   ArrayList源码窥探
 date:       2018-11-28
 author:     李伟博
-header-img: img/post-bg-coffee
+header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:
     - Java 面试 容器 ArrayList
 ---
 
-#### 目的
-在通常的情况下，如果你去面试一个Java工程师的话，ArrayList是肯定会问到的问题。下面就从一些很基础的方面来仔细研究下ArrayList相关的问题
+> 在通常的情况下，如果你去面试一个Java工程师的话，ArrayList是肯定会问到的问题。下面就从一些很基础的方面来仔细研究下ArrayList相关的问题
 
 #### ArrayList的底层实现是通过数组的方式
 
