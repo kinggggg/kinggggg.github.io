@@ -17,13 +17,8 @@ sidebar-avatar: /img/about-me.jpeg      # use absolute URL, seeing it's used in 
 
 
 # SNS settings
-RSS: false
-# weibo_username:     kissgoodbye_ever
-# zhihu_username:     
-github_username:    kinggggg
-# facebook_username:  
-# jianshu_username:   
-# twitter_username:   
+RSS: false   
+github_username:    kinggggg 
 
 
 
@@ -38,16 +33,12 @@ anchorjs: true                          # if you want to customize anchor. check
 
 
 # Gems
-# from PR#40, to support local preview for Jekyll 3.0
 gems: [jekyll-paginate]
 
 
 
 
 # Markdown settings
-# replace redcarpet to kramdown,
-# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
-# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 highlighter: rouge
 kramdown:
