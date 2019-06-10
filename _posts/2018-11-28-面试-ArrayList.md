@@ -7,7 +7,10 @@ author:     李伟博
 header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:
-    - Java 面试 容器 ArrayList
+    - Java 
+    - 面试 
+    - 容器 
+    - ArrayList
 ---
 
 > 在通常的情况下，如果你去面试一个Java工程师的话，ArrayList是肯定会问到的问题。下面就从一些很基础的方面来仔细研究下ArrayList相关的问题
