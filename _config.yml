@@ -11,7 +11,7 @@ github_repo: "https://github.com/kinggggg/kinggggg.github.io" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "你的当下决定了你的未来"
 sidebar-avatar: /img/about-me.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
